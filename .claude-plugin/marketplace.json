@@ -1,0 +1,17 @@
+{
+  "name": "mcbottcher-plugins",
+  "owner": {
+    "name": "Mikkel Caschetto-Bottcher"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins marketplace",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "commit",
+      "source": "./plugins/commit",
+      "description": "Stage all changes and commit using conventional commits style"
+    }
+  ]
+}

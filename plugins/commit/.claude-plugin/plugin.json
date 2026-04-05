@@ -1,0 +1,5 @@
+{
+  "name": "commit",
+  "version": "1.0.0",
+  "description": "Stage all changes and commit using conventional commits style"
+}
